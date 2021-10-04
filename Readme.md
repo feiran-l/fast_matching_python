@@ -3,6 +3,10 @@
 This repo is a python wrapper of the fast marching algorithm for computing geodesics on a triangular mesh.
 The code is modified from [gproshan](https://github.com/larc/gproshan).
 
+
+### Note
+Fast marching is an approximate algorithm, for exact geodesics, see [gdist](https://github.com/the-virtual-brain/tvb-gdist).
+
 ### Dependencies
 1. Eigen3
 2. OpenMP
